@@ -1,4 +1,4 @@
-# uigradients.com
+# uigradients.com [![Build Status](https://travis-ci.org/brian-guerrero/uiGradients.svg?branch=master)](https://travis-ci.org/brian-guerrero/uiGradients)
 
 This is the repo for [uigradients.com](http://uigradients.com) - A handpicked collection of beautiful colour gradients for design and code.
 
